@@ -1,6 +1,6 @@
 ![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-3b09365429.gif)
 
-# Hello 👋, I'm Md Tanvir Hossain Talukder
+<p align="center"><h1> Hello 👋, I'm Md Tanvir Hossain Talukder </h1></p>
 
 **rudro987/rudro987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
