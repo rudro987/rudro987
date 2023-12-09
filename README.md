@@ -1,6 +1,6 @@
 ![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-3b09365429.gif)
-<h1>Hello there</h1>
-### Hi there 👋
+
+# Hello 👋, I'm Md Tanvir Hossain Talukder
 
 **rudro987/rudro987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rudro987&theme=dark&hide_border=true&border_radius=0&ring=7752FE&fire=7752FE&sideLabels=46C2CB&dates=FFFFFF&currStreakLabel=7752FE&currStreakNum=7752FE&sideNums=46C2CB)
