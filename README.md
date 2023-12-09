@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/rudro987/rudro987/main/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)]
+[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-97a8b1a9ad.gif)]
 <h1>Hello there</h1>
 ### Hi there 👋
 
