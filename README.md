@@ -5,13 +5,13 @@
 
 <h2 align="left">About me:</h2>
 
-- 🔭 I’m currently working as a - **freelancer**
+- 🔭 I’m currently working as a - Web Developer
 
-- 🌱 I’m currently learning - **TypeScript, Redux, Next**
+- 🌱 I’m currently learning - TypeScript, Redux, Next
 
-- 🤝 I’ll be happy to contribute in - **Open Source Projects**
+- 🤝 I’ll be happy to contribute in - Open Source Projects
 
-- ⚡ I love to explore - **Technologies and things I don't know**
+- ⚡ I love to explore - Technologies and things I don't kno
 
 <br>
 
@@ -23,6 +23,7 @@
 <br>
 
 <h2 align="left">Connect with me:</h2>
+<br>
 <p align="center">
 <a href="https://twitter.com/tasnimhassan4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tasnimhassan4" height="45" width="60" /></a>
 <a href="https://linkedin.com/in/tanvir-rudro987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanvir-rudro987" height="45" width="60" /></a>
@@ -33,4 +34,7 @@
 <br>
 
 <h2 align="left">Technologies I am familiar with</h2>
-<p align="center"> <a href="https://github.com/rudro987" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git,nodejs,express,react,mongodb,nextjs,tailwind,html,css,js" /> </a> </p>
+<br>
+<p align="center"> <a href="https://github.com/rudro987" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs,express,react,mongodb" /> </a> </p>
+<p align="center"> <a href="https://github.com/rudro987" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css" /> </a> </p>
+<p align="center"> <a href="https://github.com/rudro987" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js,git" /> </a> </p>
