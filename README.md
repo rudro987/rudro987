@@ -1,4 +1,4 @@
-[![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-97a8b1a9ad.gif)]
+![MasterHead](https://im5.ezgif.com/tmp/ezgif-5-97a8b1a9ad.gif)
 <h1>Hello there</h1>
 ### Hi there 👋
 
