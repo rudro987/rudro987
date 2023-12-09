@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/rudro987/rudro987/main/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif)](https://rishavchanda.io)
 <h1>Hello there</h1>
 ### Hi there 👋
 
